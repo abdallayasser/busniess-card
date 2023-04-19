@@ -1,0 +1,42 @@
+body{
+    margin: 20px;
+    
+    
+    font-family: Helvetica, sans-serif;
+}
+
+
+
+.card{
+    justify-content: space-around;
+    background-color: #E9EDC9;
+    display: flex;
+    margin: 0 auto;
+    /* border: 1px dotted blue; */
+    padding: 20px;
+    width: 400px;
+    border-bottom: 10px solid #CCD5AE ;
+    color:rgb(37, 37, 37);
+
+}
+.PP{
+    width: 150px;
+}
+.info{
+    /* margin-left: 20px;
+    margin-right: 20px; */
+    text-align: center;
+}
+/* Comment (Border color):
+ .rectangle{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    height: 10px;
+    background-color: sandybrown;
+    width: 442px;
+    
+} */
+.border{
+    border: 1px dotted blue;
+}
